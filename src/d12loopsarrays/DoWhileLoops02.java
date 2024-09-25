@@ -34,7 +34,7 @@ public class DoWhileLoops02 {
             }
             counter++;
         } while (true);
-
+         //Odev:kalan hak sayisini göstermek istersek kod nasil olurdu.
 
     }
 
